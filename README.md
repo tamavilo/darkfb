@@ -12,7 +12,7 @@ $ pip2 install mechanize
 
 $ pip2 install requests
 
-$ git clone https://github.com/iwantama2/DarkFb.git
+$ git clone https://github.com/tamavilo/darkfb
 
 $ ls
 
@@ -20,4 +20,4 @@ $ cd Hackfb
 
 $ python2 hackfb.py
 
-For more information please visit on [https://www.iwancode.com/script-hack-fb-termux-massal/](https://www.iwancode.com/2024/06/script-hack-fb-termux-masal.html)
+For more information please visit on [https://droidvido.blogspot.com/2022/03/script-hack-termux-no-checkpoint.html]
